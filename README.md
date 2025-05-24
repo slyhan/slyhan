@@ -17,7 +17,7 @@
 
 Meu objetivo é construir uma carreira sólida na área de tecnologia, aplicando habilidades técnicas e analíticas para resolver problemas e criar soluções inovadoras. Estou sempre em busca de aprender, crescer e colaborar em projetos desafiadores.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-paula-a246b4304/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicacaetano/)
 
 ![Slyhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=slyhan&show_icons=true&theme=dracula)
 
