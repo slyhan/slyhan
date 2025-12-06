@@ -37,7 +37,7 @@ Gosto de desafios que unem **tecnologia + lógica + criatividade**, e acredito q
 
 Aqui estão alguns dos meus projetos mais recentes e relevantes:
 
-### 🔹 Análise de Churn
+#### 🔹 Análise de Churn
 📊 Análise de rotatividade, grupos de risco e dashboard no Power BI
 [Repositorório](https://github.com/slyhan/analise-dados-projetos/tree/main/Churn)
 
