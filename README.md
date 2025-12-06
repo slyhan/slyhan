@@ -43,13 +43,22 @@ Aqui estão alguns dos meus projetos mais recentes e relevantes:
 🔗 **[Repositório](https://github.com/slyhan/analise-dados-projetos/tree/main/Churn)**
 
 # 
-🔹 **Dashboard Financeiro** – Power BI  
-🔹 **Mercado de Ações** – Análise Exploratória com Python  
-🔹 **Libertadores 2013–2023** – Estatísticas esportivas com Python  
-🔹 **Superstore** – Análise completa + storytelling de negócio  
+#### 🔹 Curva ABC
+📊 Otimização de estoque, classificação dos itens por impacto financeiro e dasboard no Power BI
+
+🔗 **[Repositório](https://github.com/slyhan/analise-dados-projetos/tree/main/curvaABC)**
+
+#
+#### 🔹 Superstore  
+📊 Plano de recuperação de Lucro, foco em identificar prejuizos da subcategoria e como afeta a lucratividade.
+
+🔗 **[Repositório](https://github.com/slyhan/analise-dados-projetos/tree/main/planoRecuperacaoLucro)**
+#
 
 
-> Todos os projetos acima estão fixados no meu GitHub.
+> Para acessar estes e demais projetos que desenvolvo, consulte o repositório abaixo:
+
+🔗 **[Projetos de Analise de Dados](https://github.com/slyhan/analise-dados-projetos/tree/main/planoRecuperacaoLucro)**
 
 ---
 
