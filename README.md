@@ -39,9 +39,10 @@ Aqui estão alguns dos meus projetos mais recentes e relevantes:
 
 #### 🔹 Análise de Churn
 📊 Análise de rotatividade, grupos de risco e dashboard no Power BI
-[Repositorório](https://github.com/slyhan/analise-dados-projetos/tree/main/Churn)
 
+🔗 **[Repositório](https://github.com/slyhan/analise-dados-projetos/tree/main/Churn)**
 
+# 
 🔹 **Dashboard Financeiro** – Power BI  
 🔹 **Mercado de Ações** – Análise Exploratória com Python  
 🔹 **Libertadores 2013–2023** – Estatísticas esportivas com Python  
